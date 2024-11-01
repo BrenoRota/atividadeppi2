@@ -1,0 +1,24 @@
+{
+  "name": "atividadeppi2",
+  "version": "1.0.0",
+  "description": "atividadeppi2",
+  "main": "atividadepp2.js",
+  "scripts": {
+    "start": " node atividadepp2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrenoRota/atividadeppi2.git"
+  },
+  "author": "Breno Rota de Carvalho LObo Marques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrenoRota/atividadeppi2/issues"
+  },
+  "homepage": "https://github.com/BrenoRota/atividadeppi2#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
